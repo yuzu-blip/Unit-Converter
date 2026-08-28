@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: #E7E5E4;
+    font-family: "Inter", sans-serif;
+    min-width: 350px;
+
+}
+
+#input-el {
+    width: 200px;
+    height: 50px;
+    margin-bottom: 15px;
+    background-color: #9A48D0;
+    border: 2px solid whitesmoke;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#button-el {
+    height: 40px;
+    width: 108px;
+    color: #63458A;
+    border: 0px;
+    border-radius: 5px
+}
+
+.section {
+    padding: 10px;
+    background-color: white;
+    margin: 20px;
+    color: #63458A;
+}
+
+#hero {
+    background-color: #9A48D0;
+    padding: 10px 0 20px 0;
+}
+
+h2 {
+    margin-top: 0px;
+    color: whitesmoke;
+}
