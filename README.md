@@ -1,19 +1,30 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# 🔄 Imperial ↔ Metric Converter
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+A Chrome extension that makes it easy to convert between imperial and metric units.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could go further with one of our advanced courses 🚀
+## 🛠️ Built With
+- HTML
+- CSS
+- JavaScript
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## ✨ Features
+- Convert between imperial and metric units
+- Quick conversions directly from the browser
+- Simple and easy-to-use interface
 
-Happy Coding!
+## 📚 What I Learned
+- JavaScript
+- Working with user input
+- DOM manipulation
+- Event listeners
+- Chrome extension basics
+- const
+- innerHTML
+- input.value
+- function parameters
+- template strings
+
+## 🚀 Future Improvements
+- Add more unit types
+- Improve the UI
+- Add unit conversion selector
